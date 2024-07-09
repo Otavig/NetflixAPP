@@ -23,10 +23,7 @@ Ou `RECOMENDO` apenas que digite `npm i` que automaticamente instala todas as de
 ### 3. Iniciar o App:
 
     npx expo start
-  
-## Uso
-
-- Iniciando o App você tera a opção de iniar por um `emulador` ou escaniando pelo `Qr code`
+Iniciando o App você vai ter a opção de iniciar por um emulador ou escaneando pelo QR CODE no seu aparelho.
 
 ## Tecnologias Utilizadas
 - **React Native**: Um framework JavaScript para construir aplicativos móveis multiplataforma nativos usando React.
