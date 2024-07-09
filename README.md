@@ -29,13 +29,13 @@ Ou `RECOMENDO` apenas que digite `npm i` que automaticamente instala todas as de
 - Iniciando o App você tera a opção de iniar por um `emulador` ou escaniando pelo `Qr code`
 
 ## Tecnologias Utilizadas
-- React Native: Um framework JavaScript para construir aplicativos móveis multiplataforma nativos usando React.
-- React Navigation: Biblioteca de roteamento e navegação para React Native, usada para navegar entre telas e gerenciar a pilha de navegação.
-- AsyncStorage: API de armazenamento persistente assíncrono para React Native, usada para armazenar dados localmente no dispositivo do usuário.
-- @expo/vector-icons: Pacote de ícones para React Native, usado para renderizar ícones vetoriais, como os ícones do Ionicons.
-- Dimensions: API do React Native para obter dimensões da tela do dispositivo, usada aqui para calcular o número de colunas em uma lista de itens com base na largura da tela.
-- FlatList: Componente do React Native para renderizar listas de dados, otimizado para melhor desempenho e renderização eficiente de grandes conjuntos de dados.
-- TouchableOpacity: Componente do React Native usado para detectar toques em um elemento, fornecendo feedback visual ao usuário.
+- *React Native*: Um framework JavaScript para construir aplicativos móveis multiplataforma nativos usando React.
+- *React Navigation*: Biblioteca de roteamento e navegação para React Native, usada para navegar entre telas e gerenciar a pilha de navegação.
+- *AsyncStorage*: API de armazenamento persistente assíncrono para React Native, usada para armazenar dados localmente no dispositivo do usuário.
+- *@expo/vector-icons*: Pacote de ícones para React Native, usado para renderizar ícones vetoriais, como os ícones do Ionicons.
+- *Dimensions*: API do React Native para obter dimensões da tela do dispositivo, usada aqui para calcular o número de colunas em uma lista de itens com base na largura da tela.
+- *FlatList*: Componente do React Native para renderizar listas de dados, otimizado para melhor desempenho e renderização eficiente de grandes conjuntos de dados.
+- *TouchableOpacity*: Componente do React Native usado para detectar toques em um elemento, fornecendo feedback visual ao usuário.
 - StyleSheet: Módulo do React Native usado para criar estilos estilizados para componentes.
   
 ## Autor
