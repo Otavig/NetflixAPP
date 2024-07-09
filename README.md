@@ -1,8 +1,6 @@
 
 <img src="tel1.png" align="right" width="130px"/>
 
----
-
 ### NetflixApp
 Este é um projeto desenvolvido por mim em uma aula no Senai em ADS, onde estavamos explorando o Flatlist no expo go. (De um jeito mais leigo o Flalist ajuda no carregamento da tela, assim não sobrecarregando com diversos conteúdos)
 
