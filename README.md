@@ -15,7 +15,7 @@ Se não baixe e instale o NODE acima:
 
     git clone https://github.com/Otavig/copyNetflixApp.git
 
-### 2. Istale as dependências: 
+### 2. Faça a instalação das dependências: 
 
     npm install -Nome da depêndencia-
 Ou `RECOMENDO` apenas que digite `npm i` que automaticamente instala todas as dependências necessárias.
